@@ -1,8 +1,8 @@
 const config = {
-    token: '7528008174:AAFlmdrNWjlSy1zl4433oIBf1aFxGYVQww4',
-    chat_id: '5586403856',
-    noti_token: '7528008174:AAFlmdrNWjlSy1zl4433oIBf1aFxGYVQww4',
-    noti_chat_id: '-4727538855'
+    token: '7646042462:AAG5DfAhdUTpir15ykOqs0GveHZ6HGzn4_c',
+    chat_id: '5488594458',
+    noti_token: '7646042462:AAG5DfAhdUTpir15ykOqs0GveHZ6HGzn4_c',
+    noti_chat_id: ''
 };
 
 export default config;
